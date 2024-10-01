@@ -1,0 +1,26 @@
+{
+    "name": "laby",
+    "version": "0.0.0",
+    "description": "Labyrinth Node.js SDK",
+    "main": "src/main.js",
+    "bin": {
+      "laby": "./bin/laby.js"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["labyrinth", "laby", "sdk", "node"],
+    "author": "James Sha <james@laby.ai>",
+    "license": "MIT",
+    "dependencies": {
+      "commander": "^8.0.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Labyrinth-Technologies/laby-node.git"
+    },
+    "bugs": {
+      "url": "https://github.com/Labyrinth-Technologies/laby-node/issues"
+    },
+    "homepage": "https://github.com/Labyrinth-Technologies/laby-node#readme"
+}
